@@ -13,7 +13,7 @@
 - 🗄️ Manejo de **Bases de Datos SQL y NoSQL**
 - 🛠️ Soporte técnico y mantenimiento de computadoras
 - 📚 En constante aprendizaje y mejora profesional
-- 👨‍💻 Revisa mis proyectos en: github.com/TU_USUARIO
+- 👨‍💻 Revisa mis proyectos en: github.com/XHurro86
 
 ---
 
